@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoKart_Game_Tutorial.unity
+  isLoaded: 0
+  isActive: 0
